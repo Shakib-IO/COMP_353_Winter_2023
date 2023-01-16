@@ -1,1 +1,1 @@
-# COMP_353_Winter_2023
+# COMP 353 (Databases) Winter 2023
